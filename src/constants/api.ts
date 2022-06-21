@@ -1,0 +1,1 @@
+export const API_URL = "https://diplom8309.herokuapp.com";
